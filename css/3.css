@@ -1,7 +1,10 @@
+/* id selector*/
 #unique-section {
   	color: red;
   
 }
+
+/* class selector*/
 
 .regular-section {
 	color: green;
